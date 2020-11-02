@@ -68,6 +68,18 @@ to generate cleaner specs for the function arguments.
 index :slug, primary: true, type: String.t
 ```
 
+## Roadmap
+
+### To 0.1.0
+
+- Cleanup code for publishing
+- Mechanism for caches that depend on caches configured with `type: :direct`
+- HTTP bridge improved polling logic
+
+### Future
+
+- TCP bridge
+
 ## License
 
 MIT License
