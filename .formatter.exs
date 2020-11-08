@@ -4,6 +4,8 @@ locals_without_parens = [
   filter: 3,
   index: 1,
   index: 2,
+  on_configure: 1,
+  on_update: 1,
   optimize: 1,
   optimize: 2,
   optimize: 3,
@@ -15,7 +17,9 @@ locals_without_parens = [
   resource: 2,
   resource: 3,
   source: 1,
-  source: 2
+  source: 2,
+  type: 1,
+  type: 2
 ]
 
 [
