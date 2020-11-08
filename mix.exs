@@ -68,6 +68,7 @@ defmodule ResourceCache.MixProject do
 
   defp deps do
     [
+      {:heimdallr, ">= 0.0.0", only: [:dev]},
       {:ex_doc, ">= 0.0.0", only: [:dev]}
     ]
   end
