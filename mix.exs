@@ -1,7 +1,7 @@
 defmodule ResourceCache.MixProject do
   use Mix.Project
 
-  @version "0.0.1-rc0"
+  @version "0.0.1"
 
   def project do
     [
